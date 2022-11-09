@@ -1,3 +1,4 @@
 # EvoHub
-TeraRanger Hub Evo
+TeraRanger Hub Evo.
+
 Python code for communication with evo hub.
